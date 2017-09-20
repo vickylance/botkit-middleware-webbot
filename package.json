@@ -1,0 +1,27 @@
+{
+  "name": "botkit-middleware-webbot",
+  "version": "1.0.0",
+  "description": "Middleware for botkit for custom website chat template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickylance/botkit-middleware-webbot.git"
+  },
+  "keywords": [
+    "botkit",
+    "webbot",
+    "middleware"
+  ],
+  "author": "Vignesh.S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vickylance/botkit-middleware-webbot/issues"
+  },
+  "homepage": "https://github.com/vickylance/botkit-middleware-webbot#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
